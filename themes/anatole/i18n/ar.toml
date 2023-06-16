@@ -34,16 +34,4 @@ other = "الاسم"
 other = "البريد الالكتروني"
 
 [message]
-other = "الرسالة"
-
-[warning]
-other = "تحذير"
-
-[info]
-other = "حول"
-
-[update]
-other = "تحديث"
-
-[series_posts]
-other = "المشاركات في هذه السلسلة"
+other = "الرسالة" 

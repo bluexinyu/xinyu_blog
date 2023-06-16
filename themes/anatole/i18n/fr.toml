@@ -33,16 +33,4 @@ other = "Nom"
 other = "Email"
 
 [message]
-other = "Message"
-
-[warning]
-other = "Attention"
-
-[info]
-other = "À propos"
-
-[update]
-other = "mettre à jour"
-
-[series_posts]
-other = "Articles dans cette série"
+other = "Message" 

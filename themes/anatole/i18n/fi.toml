@@ -33,16 +33,4 @@ other = "Nimi"
 other = "Sähköposti"
 
 [message]
-other = "Viesti"
-
-[warning]
-other = "Varoitus"
-
-[info]
-other = "Tietoja"
-
-[update]
-other = "Päivitys"
-
-[series_posts]
-other = "Viestit tässä sarjassa"
+other = "Viesti" 
