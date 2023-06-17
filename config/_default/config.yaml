@@ -1,7 +1,7 @@
 baseURL: "/"
 languageCode: en
 DefaultContentLanguage: en
-title: Personal website for Your Name
+title: Personal website for Xinyu
 theme: anatole
 summarylength: 10
 enableEmoji: yes
@@ -9,5 +9,3 @@ enableRobotsTXT: yes
 pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
-displayMode = "dark"
-disableThemeSwitcher = true # Theme switcher is enabled by default
