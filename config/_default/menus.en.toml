@@ -24,7 +24,7 @@
 
   [[main]]
   name = "Blog"
-  weight = 005
+  weight = 500
   identifier = "Blog"
   url = "/blog/"
 
