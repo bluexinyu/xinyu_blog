@@ -1,6 +1,6 @@
 
-title = "I'm [Your Name]"
-author = "Your Name"
+title = "I'm Xinyu Zhang"
+author = "Xinyu Zhang"
 #copyright = "2020-2021"
 description = "Use this space to convey a short message to your viewers describing your interests, goals, or skills"
 profilePicture = "images/dm-headshot-bw.jpg"
@@ -15,7 +15,7 @@ images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 contactFormAction = "https://formspree.io/f/xvodzroq"
-googleAnalytics = "UA-196111394-3"
+# googleAnalytics = "UA-196111394-3"
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 singleDateFormat = "2006-01-02"

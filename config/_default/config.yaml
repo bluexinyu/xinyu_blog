@@ -9,3 +9,5 @@ enableRobotsTXT: yes
 pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
+displayMode = "dark"
+disableThemeSwitcher = true # Theme switcher is enabled by default

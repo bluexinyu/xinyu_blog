@@ -3,21 +3,34 @@
   identifier = "home"
   weight = 100
   url = "/"
+  
+   [[main]]
+  name = "Research Highlights"
+  weight = 200
+  identifier = "Research Highlights"
+  url = "/Research Highlights/"
+  
+    [[main]]
+  name = "Projects"
+  weight = 300
+  identifier = "Projects"
+  url = "/Projects/"
 
   [[main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+  name = "Teaching"
+  weight = 400
+  identifier = "Teaching"
+  url = "/Teaching/"
+
+  [[main]]
+  name = "Blog"
+  weight = 005
+  identifier = "Blog"
+  url = "/blog/"
 
   [[main]]
   name = "About Me"
-  weight = 300
+  weight = 600
   identifier = "about"
   url = "/about/"
 
-  [[main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
