@@ -1,0 +1,64 @@
+---
+title: Sample post - Using R in R Markdown
+author: Danny Morris
+summary: This post demonstrates the use of DT, ggplot2, and plotly R packages for rendering beautiful tables and graphs in an R Markdown document.
+date: '2021-04-26'
+output:
+  blogdown::html_page:
+    highlight: tango
+    toc: true
+slug: []
+Description: 'Add additional information about the post using keywords to improve SEO'
+Tags: [R, R Markdown, Data Visualization]
+Categories: [R, R Markdown, Data Visualization]
+DisableComments: no
+thumbnail: "images/r.png"
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Overview
+
+This sample post teaches you my preferred approach for authoring new posts that need to execute R code. The post includes a table of contents and code highlighting. The post content covers interactive HTML tables via the [DT](https://rstudio.github.io/DT/) package, static graphs via the [ggplot2](https://ggplot2.tidyverse.org/) package, and interactive plots via the [plotly](https://plotly.com/r/) package.
+
+View the [source code](https://github.com/dannymorris/r4sites-anatole-custom/blob/master/content/english/post/2021-04-22-sample-post-using-r-in-r-markdown/index.en.Rmd) on GitHub.
+
+# Document metadata
+
+As seen in the [source code](https://github.com/dannymorris/r4sites-anatole-custom/blob/master/content/english/post/2021-04-22-sample-post-using-r-in-r-markdown/index.en.Rmd#L1-L17), the metadata is the information between the `---` markers at the top of the source code. Here is where you specify information such as the document author, date, summary, table of contents, code highlighting scheme, tags, and categories.
+
+The metadata for this document contains the following information in the structure shown:
+
+```
+title: Sample post - Using R in R Markdown
+author: Danny Morris
+summary: This post demonstrates the use of DT, ggplot2, and plotly R packages for rendering beautiful tables and graphs in an R Markdown document.
+date: '2021-04-22'
+output:
+  blogdown::html_page:
+    highlight: tango
+    toc: true
+slug: []
+Description: 'Add additional information about the post using keywords to improve SEO'
+Tags: [R, R Markdown, Data Visualization]
+Categories: [R, R Markdown, Data Visualization]
+DisableComments: no
+editor_options: 
+  chunk_output_type: console
+```
+
+# Load R packages
+
+I prefer to load all R packages needed for the current document in a single code chunk near the top of the document.
+
+
+
+
+
+
+
+
+
+
