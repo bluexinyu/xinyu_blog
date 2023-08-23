@@ -1,3 +1,11 @@
+ 
+  [[main]]
+  name = "About Me"
+  weight = 70
+  identifier = "about"
+  url = "/about/"
+  
+ 
   [[main]]
   name = "Home"
   identifier = "home"
@@ -28,9 +36,4 @@
   identifier = "Blog"
   url = "/blog/"
 
-  [[main]]
-  name = "About Me"
-  weight = 600
-  identifier = "about"
-  url = "/about/"
 

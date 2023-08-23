@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Your Name</title>
+    <title>Posts on XINYU ZHANG</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Your Name</description>
+    <description>Recent content in Posts on XINYU ZHANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer mediated communication and wellbeing</title>
+      <link>/post/2023-06-17-computer-mediated-communication-and-wellbeing/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-06-17-computer-mediated-communication-and-wellbeing/</guid>
+      <description>This post shows common variables in the CMC and welbeing.</description>
+    </item>
+    
     <item>
       <title>Sample post - Using R in R Markdown</title>
       <link>/post/2021-04-22-sample-post-using-r-in-r-markdown/</link>
