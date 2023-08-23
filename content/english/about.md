@@ -1,12 +1,14 @@
 ---
-aliases:
-- about-us
-- about-hugo
-- contact
-author: Your Name
+title: "About"
+author: "Your Name"
 date: "2021-04-25"
-description: About yourself and your background including education, work experience, interests, etc.
-title: About
+output: pdf_document
+aliases:
+- "about-us"
+- "about-hugo"
+- contact
+description: About yourself and your background including education, work experience,
+  interests, etc.
 ---
 
 Use this page to introduce yourself and your background. Briefly describe your background, field of study, interests, and goals. Don't be too wordy otherwise you may lose your audience.
@@ -15,20 +17,13 @@ Give your audience another path (in addition to the links on the homepage) to co
 
 ## Education
 
-Write about your education here.
+- BA: Business Administration; Zhongnan University of Economics and Law; Sept. 2016 - June 2020
+- MA: Communication Studies; Renmin University; Sept. 2020 - June 2022
+- MA: Communication Studies; Kent State University; Sept. 2022 - June 2024  (expected)
 
-- Undergrad
-- Grad school
-- Certificates
-- Certifications
-- Online courses
+## Research and Publications
 
-## Work Experience
-
-Write about your work experience here.
-
-- **Job Title**, Company Name, Start/End Dates
-- **Job Title**, Company Name, Start/End Dates
+Write about your publications or personal research projects here.
 
 ## Projects
 
@@ -37,10 +32,4 @@ Write about some interesting projects here, and make sure you [link to a blog po
 - **Project Name**. Project description goes here.
 - **Project Name**. Project description goes here.
 
-## Research and Publications
 
-Write about your publications or personal research projects here.
-
-## Other Interests
-
-Show your personality by writing about something of interest including hobbies, future career goals, passions, etc.
