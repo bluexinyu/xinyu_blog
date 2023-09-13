@@ -10,7 +10,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
+mainSections = ["About Me"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -35,7 +35,7 @@ listDateFormat = "2006-01-02"
 ## Math settings
 [math]
 enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "mathjax"  # options: "katex", "mathjax". default is "katex".
+use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
@@ -47,14 +47,14 @@ url = "https://www.linkedin.com/in/drmorris87/"
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/dannymorris"
+url = "https://github.com/bluexinyu"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/bea_xinyu/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@dmorris10667@gmail.com"
+url = "mailto:mail@zxinyu@kent.edu"
