@@ -1,7 +1,7 @@
-baseURL: /
+baseURL: "/"
 languageCode: en
 DefaultContentLanguage: en
-title: Website of Xinyu Zhang
+title: Personal website for Xinyu
 theme: anatole
 summarylength: 10
 enableEmoji: yes
@@ -9,21 +9,3 @@ enableRobotsTXT: yes
 pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
-localizedDates: no
-markup:
-  goldmark:
-    renderer:
-      unsafe: yes
-taxonomies:
-  category: categories
-  series: series
-  tag: tags
-related:
-  includeNewer: yes
-  indices:
-    - name: keywords
-      weight: 120
-    - name: tags
-      weight: 80
-  threshold: 60
-  toLower: yes
