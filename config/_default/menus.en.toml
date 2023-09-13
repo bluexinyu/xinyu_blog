@@ -18,11 +18,11 @@
   identifier = "Research Highlights"
   url = "/Research Highlights/"
   
-    [[main]]
-  name = "Projects"
-  weight = 300
-  identifier = "Projects"
-  url = "/Projects/"
+   # [[main]]
+  #name = "Projects"
+  #weight = 300
+  #identifier = "Projects"
+  #url = "/Projects/"
 
   [[main]]
   name = "Teaching"
