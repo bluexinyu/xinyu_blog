@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: 
 author: "Your Name"
 date: "2021-04-25"
 output: pdf_document
