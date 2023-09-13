@@ -14,11 +14,11 @@ description: About yourself and your background including education, work experi
 
 ## Education
 
-I’m now a Master student and a graduate teaching assistant in Communication at [Kent](https://www.kent.edu/comm). I spent four years in [zhongnan university of economics and law](https://english.zuel.edu.cn/mainm.htm) on earning my BA in bussiness administration. I was also an exchange student in [National Taipei University](https://en.wikipedia.org/wiki/National_Taipei_University) from 2018 – 2019.
+I’m now a Master student and a graduate teaching assistant in Communication at [Kent](https://www.kent.edu/comm). I spent four years in [Zhongnan University of Economics and Law](https://english.zuel.edu.cn/mainm.htm) on earning my BA in Bussiness Administration. I was also an exchange student in [National Taipei University](https://en.wikipedia.org/wiki/National_Taipei_University) from 2018 – 2019.
 
 ## Who am I
 
-I possess a strong aptitude for self-learning and the ability to marshal resources effectively to achieve my objectives. As a first-generation college student from a quaint town in China, I work hard to be admited by one of the top universities in China . My parents are both Xiagang workers (the Chinese style of laying off workers). This personal connection inspired me to undertake a project that delves into the silence and communicative practices of xiagang within the family. 
+I possess a strong aptitude for self-learning and the ability to marshal resources effectively to achieve my objectives. As a first-generation college student from a quaint town in China, I work hard to be admitted by one of the top universities in China . My parents are both Xiagang workers (the Chinese style of laying off workers). This personal connection inspired me to undertake a project that delves into the silence and communicative practices of xiagang within the family. 
 
 For me, research is not just an academic endeavor; it's a journey of self-exploration.
 
