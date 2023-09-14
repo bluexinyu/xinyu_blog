@@ -1,5 +1,5 @@
 ---
-title: "Research Highlights"
+title: 
 author: "Xinyu Zhang"
 date: "2021-04-25"
 output: pdf_document
@@ -21,7 +21,7 @@ Zou, W., **Zhang, X.**, & He, J. (2023). Making Sense of Jiese: An Interview Stu
 
 2. **Zhang, X.**, Silva, D. E., (2023). Exploring Thematic Features and Sexual Scripts in Women’s Online Pornography Abstinence Forums. Paper presented at the *106th Annual Conference of Association for Education in Journalism and Mass Communication, Washington, D.C. The division of Commission on the Status of Women. First Place Student-Faculty Paper.*
 
-3. Egbert N., Noi S., Rindfleisch M., **Zhang X.** (2023), Uncertain Poets Describe Their Reactions to COVID-19 Vaccines. Poster presented at the *7th Biennial D.C. Health Communication Conference (DCHC)*.
+3. Egbert N., Noi S., Rindfleisch M., **Zhang X.** (2023). Uncertain Poets Describe Their Reactions to COVID-19 Vaccines. Poster presented at the *7th Biennial D.C. Health Communication Conference (DCHC)*.
 
 4. **Zhang, X.**, He, J. (2022). Knowledge Construction in an Online Health Community: A Process-Oriented and Constructivist Perspective. Paper presented at the *2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China*.
 

@@ -1,5 +1,5 @@
 ---
-title: Sample post - Basic Markdown syntax
+title: Basic Markdown syntax
 summary: Not familiar with Markdown? This sample post introduces the basics
 author: Danny Morris
 date: '2021-04-21'

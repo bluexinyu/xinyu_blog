@@ -1,5 +1,5 @@
 ---
-title: Sample post - Using R in R Markdown
+title: Using R in R Markdown
 author: Danny Morris
 summary: This post demonstrates the use of DT, ggplot2, and plotly R packages for rendering beautiful tables and graphs in an R Markdown document.
 date: '2021-04-26'

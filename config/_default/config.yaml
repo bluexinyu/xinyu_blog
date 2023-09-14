@@ -25,5 +25,5 @@ related:
       weight: 120
     - name: tags
       weight: 80
-  threshold: 60
+  threshold: 30
   toLower: yes
