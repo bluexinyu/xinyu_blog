@@ -14,15 +14,15 @@ description: About yourself and your background including education, work experi
 
 ## Education
 
-I’m now a Master student and a graduate teaching assistant in Communication at [Kent](https://www.kent.edu/comm). I spent four years in [Zhongnan University of Economics and Law](https://www.topuniversities.com/universities/zhongnan-university-economics-law) on earning my BA in Bussiness Administration. I was also an exchange student in [National Taipei University](https://en.wikipedia.org/wiki/National_Taipei_University) from 2018 – 2019.
+I’m now a Master's student and a graduate teaching assistant in Communication at [Kent](https://www.kent.edu/comm). I spent four years in [Zhongnan University of Economics and Law](https://www.topuniversities.com/universities/zhongnan-university-economics-law) on earning my BA in Business Administration. I was also an exchange student at [National Taipei University](https://en.wikipedia.org/wiki/National_Taipei_University) from 2018 – 2019.
 
 ## Who am I
 
-I possess a strong aptitude for self-learning and the ability to marshal resources effectively to achieve my objectives. As a first-generation college student from a quaint town in China, I work hard to be admitted by one of the top universities in China . My parents are both Xiagang workers (the Chinese style of laying off workers). This personal connection inspired me to undertake a project that delves into the silence and communicative practices of xiagang within the family. 
+I possess a strong aptitude for self-learning and the ability to marshal resources effectively to achieve my objectives. As a first-generation college student from a quaint town in China, I work hard to be admitted to one of the top universities in China. To further enhance my understanding and research skills, I pursued an academically rigorous program at [Kent State University](https://www.kent.edu/comm/faculty-staff) in the United States. A graduate assistantship there eased my financial strain and provided vital research and teaching experience. 
 
 For me, research is not just an academic endeavor; it's a journey of self-exploration.
 
-I am an INFP.   I have a strong associative ability, which always  help me quickly relate one concept to another. I am not satisfied with superficial answers and will dig deeper to understand the core of an issue.
+I am an INFP.   I have a strong associative ability, which always helps me quickly relate one concept to another. I am not satisfied with superficial answers and will dig deeper to understand the core of an issue.
 
 
 
@@ -32,7 +32,7 @@ I am currently collaborating with [Dr. Silva](https://www.kent.edu/comm/david-e-
 
 - **Online Anti-Pornography Movements:** Through structural topic modeling and discourse analysis, we are exploring the sexual scripts prevalent in women-led online abstinence communities.
 - **Influence of Network Structure on Stigma:** Our research seeks to understand how network structures impact the stigma related to gynecological diseases.
-- **Destigmatization Strategies in Censored Social Media:** We are investigating the varied strategies for destigmatization in highly censored social media environments.
+- **Algorithm Identities:**  Are TikTok algorithms influencing users’ self-perceived identities and personal values?
 
 Additionally, I've collaborated with several master's and Ph.D. students on diverse topics, such as algorithmic literacy, mediated intimacy in astrological videos, and health anxiety on social media platforms.
 

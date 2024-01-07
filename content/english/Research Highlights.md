@@ -12,8 +12,11 @@ description: About yourself and your background including education, work experi
 ---
 
 ## Publication
+1. Zhang, X., Zou, W. (2023). Shattering the Silence: Exploring the role of Chinese Online Sexual Health Influencers in Promoting Sex Education. Sex Education, 0(0), 1–16.  https://doi.org/10.1080/14681811.2023.2272734
 
-Zou, W., **Zhang, X.**, & He, J. (2023). Making Sense of Jiese: An Interview Study of Members from a Porn-Free Self-Help Forum in China. *Archives of Sexual Behavior*, *52*(1), 385–397. https://doi.org/10.1007/s10508-022-02456-8
+2. Zou, W., **Zhang, X.**, & He, J. (2023). Making Sense of Jiese: An Interview Study of Members from a Porn-Free Self-Help Forum in China. *Archives of Sexual Behavior*, *52*(1), 385–397. https://doi.org/10.1007/s10508-022-02456-8
+
+3. (in press)Yan, Y., Huang, S. X., Ge, X. L., Zeng, J., Guo, K. S., Zhang, X. (2023). (in Chinese) 微信群刷屏：公开敞视下的多人关系建设 [Allegiance in WeChat groups: Building relationships publicly among multiple people]. Xinwen Jizhe.
 
 ## Conference Papers
 
@@ -29,10 +32,7 @@ Zou, W., **Zhang, X.**, & He, J. (2023). Making Sense of Jiese: An Interview Stu
 
 1. **Zhang, X.**, Silva, D. E. (Under Review). “Help a Sister Out”: Investigating the Thematic Features and Discussion of Sexual Scripts in Women’s Online Pornography Abstinence Forums.
 
-2. **Zhang, X.**, Zou, W., (Revise and Resubmit). Shattering the silence: Exploring the role of Chinese Online Sexual Health Influencers in Promoting Sex Education.
-
-3. Zou, W.; Tang, L.; Zhou, M.; **Zhang, X.** (Under Review). Self-Disclosure and Received Social Support Among Women Exp eriencing Infertility on Reddit: A Natural Language Processing Approach.
-
+2. Zou, W.; Tang, L.; Zhou, M.; **Zhang, X.** (Under Review). Self-Disclosure and Received Social Support Among Women Exp eriencing Infertility on Reddit: A Natural Language Processing Approach.
 
 
 
